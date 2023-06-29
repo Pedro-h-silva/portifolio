@@ -72,7 +72,7 @@ function exchange_content(item) {
       break;
     case 3:
       conteudoPrincipal.innerHTML =
-        "<h2 id='sub-title-2'>Trabalhos</h2><br><p id='sub-content'>Em desenvolvimento: <br> <br>Loja virtual para marca de roupas: <a href='https://github.com/Pedro-h-silva/Slug.git' target='_blankk' id='sub-link'> Clique aqui para ir ao repositório do projeto...</a><br><br>Concluidos:<br><br> Sistema para livraria: <a href='https://github.com/Pedro-h-silva/Library-system-with-applied-data-structure' target='_blankk' id='sub-link'> Clique aqui para ir ao repositório do projeto...</a><br><br> Portifólio: <a href='https://github.com/Pedro-h-silva/portifolio.git' target='_blankk' id='sub-link'> Clique aqui para ir ao repositório do projeto...</a></p>";
+        "<h2 id='sub-title-2'>Trabalhos</h2><br><p id='sub-content'>Em desenvolvimento: <br> <br>Loja virtual para marca de roupas: <a href='https://github.com/Pedro-h-silva/Slug.git' target='_blankk' id='sub-link'> Clique aqui para ir ao repositório do projeto...</a><br><br>Concluidos:<br><br> Sistema para livraria: <a href='https://github.com/Pedro-h-silva/Library-system-with-applied-data-structure' target='_blankk' id='sub-link'> Clique aqui para ir ao repositório do projeto...</a> <br><br>Portifólio: <a href='https://github.com/Pedro-h-silva/portifolio.git' target='_blankk' id='sub-link'> Clique aqui para ir ao repositório do projeto...</a></p>";
       linkWpp.style.display = "none";
       break;
     default:
